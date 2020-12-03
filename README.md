@@ -1,4 +1,8 @@
 # Season
-Learning and Practicing ReactJs
+## Learning and Practicing ReactJs
 
-#the app will change interface according to your location..
+The app will change interface according to your location..
+
+For Preview [***click here***](https://nervous-goldstine-8c41fa.netlify.app/).
+
+
